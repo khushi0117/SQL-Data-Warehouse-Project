@@ -74,12 +74,12 @@ All tools and datasets are freely available:
 
 data-warehouse-project/
 │
-├── datasets/                   # Source CSV files (ERP and CRM)
-|
-├── scripts/                    # SQL scripts for ETL and transformations
-│   ├── bronze/                 # Raw data ingestion scripts
-│   ├── silver/                 # Data cleansing and transformation scripts
-│   ├── gold/                   # Analytical modeling scripts
+├── datasets/ # Source CSV files (ERP and CRM)
 │
-├── tests/                      # Data quality and validation scripts
-└── README.md                   # Project overview and instructions
+├── scripts/ # SQL scripts for ETL and transformations
+│ ├── bronze/ # Raw data ingestion scripts
+│ ├── silver/ # Data cleansing and transformation scripts
+│ └── gold/ # Analytical modeling scripts
+│
+├── tests/ # Data quality and validation scripts
+└── README.md # Project overview and instructions
