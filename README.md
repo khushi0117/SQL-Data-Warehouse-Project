@@ -59,7 +59,7 @@ All tools and datasets are freely available:
 
 ---
 
-### Data Analysis: Analytics & Reporting
+### Data Analysis: Analytics & Reporting ✅
 
 **Objective:** Generate SQL-based insights to support strategic business decisions.  
 
